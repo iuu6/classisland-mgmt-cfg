@@ -3,14 +3,18 @@
     "OrganizationName": "上海市回民中学",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/iuu6/classisland-mgmt-cfg/master/classplans.json",
-        "Version": 1
+        "Version": 2
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/iuu6/classisland-mgmt-cfg/master/timelayouts.json",
-        "Version": 1
+        "Version": 2
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/iuu6/classisland-mgmt-cfg/master/subjects.json",
-        "Version": 1
+        "Version": 2
+    },
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/iuu6/classisland-mgmt-cfg/master/policy.json",
+        "Version": 2
     }
 }
